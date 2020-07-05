@@ -8,7 +8,7 @@ let laterYears = myAge - 2;
 laterYears *= 4;
 //could use laterYears = laterYears * 4; instead of shortened line above, the same for earlyYears
 
-// adding the values of 2 varibles and assiging that value to a new variable
+// adding the values of 2 variables and assigning that value to a new variable
 const myAgeInDogYears = earlyYears + laterYears;
 // this line changes the string to all lower case
 const myName = 'Tim'.toLowerCase();
