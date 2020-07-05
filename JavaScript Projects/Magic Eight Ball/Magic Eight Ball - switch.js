@@ -3,11 +3,12 @@ const userName = 'Tim';
 userName ? console.log(`Hello ${userName}!`) :
     console.log('Hello!');
 
-const userQuestion = 'Will I need an umberella tomorrow?';
+const userQuestion = 'Will I need an umbrella tomorrow?';
 
 console.log(`${userName} you asked: ` + userQuestion);
 
 let randomNumber = Math.floor(Math.random() * 8);
+console.log(randomNumber);
 
 let eightBall = '';
 
