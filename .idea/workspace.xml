@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="127bc491-3290-4674-a7d1-52a3e5998fbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="127bc491-3290-4674-a7d1-52a3e5998fbb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -34,6 +32,11 @@
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Into to HTML/Cheetsheets/sheet1">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -94,13 +97,13 @@
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Introduction to Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Into to HTML" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Introduction to Javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="Conditional Statements" type="462c0819:PsiDirectoryNode" />
+              <item name="Into to HTML" type="462c0819:PsiDirectoryNode" />
+              <item name="Cheetsheets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +163,7 @@
       <updated>1593954246349</updated>
       <workItem from="1593954247629" duration="924000" />
       <workItem from="1593960119086" duration="467000" />
-      <workItem from="1593960598506" duration="6813000" />
+      <workItem from="1593960598506" duration="7027000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1593955117327</created>
@@ -173,7 +176,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8204000" />
+    <option name="totallyTimeSpent" value="8418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="815" extended-state="6" />
@@ -399,6 +402,9 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Into to HTML/Cheetsheets/sheet1">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
