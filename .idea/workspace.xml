@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="127bc491-3290-4674-a7d1-52a3e5998fbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="127bc491-3290-4674-a7d1-52a3e5998fbb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,12 +14,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/JavaScript Versions: ES6 and Before">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-212">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Conditional Statements/Intro">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -140,7 +134,7 @@
       <updated>1593954246349</updated>
       <workItem from="1593954247629" duration="924000" />
       <workItem from="1593960119086" duration="467000" />
-      <workItem from="1593960598506" duration="6394000" />
+      <workItem from="1593960598506" duration="6647000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1593955117327</created>
@@ -153,7 +147,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7785000" />
+    <option name="totallyTimeSpent" value="8038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="815" extended-state="6" />
@@ -352,12 +346,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/javascript_timeline.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to Javascript/JavaScript Versions: ES6 and Before">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-212">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Conditional Statements/Intro">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
