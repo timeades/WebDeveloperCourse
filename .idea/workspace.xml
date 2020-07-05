@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="127bc491-3290-4674-a7d1-52a3e5998fbb" name="Default Changelist" comment="" />
+    <list default="true" id="127bc491-3290-4674-a7d1-52a3e5998fbb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript Practice/Variables/Review Variables" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Variables/Review Variables" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,37 +17,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/String Interpolation.js">
+        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Kelvin Weather/intro">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="779">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/typeof operator.js">
+        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Kelvin Weather/Kelvin Weather.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="26" column="118" selection-start-line="26" selection-start-column="118" selection-end-line="26" selection-end-column="118" />
+            <state>
+              <caret column="61" selection-start-column="61" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Review Variables.js">
+        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Dog Years/Intro &amp; Steps">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
-              <caret line="6" column="27" lean-forward="true" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="989">
+              <caret line="43" column="100" selection-start-line="43" selection-start-column="100" selection-end-line="43" selection-end-column="100" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Javascript Practice/Variables/Review Variables">
+        <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Dog Years/Dog Years.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="123" selection-start-line="26" selection-start-column="123" selection-end-line="26" selection-end-column="123" />
+            <state relative-caret-position="345">
+              <caret line="15" column="128" selection-start-line="15" selection-start-column="128" selection-end-line="15" selection-end-column="128" />
             </state>
           </provider>
         </entry>
@@ -76,6 +79,10 @@
         <option value="$PROJECT_DIR$/Introduction to Javascript/Variables/Review Variables" />
         <option value="$PROJECT_DIR$/Introduction to Javascript/Variables/Review Variables.js" />
         <option value="$PROJECT_DIR$/Javascript Practice/Variables/Review Variables" />
+        <option value="$PROJECT_DIR$/Javascript Practice/Variables/Kelvin Weather/intro" />
+        <option value="$PROJECT_DIR$/Javascript Practice/Variables/Kelvin Weather/Kelvin Weather.js" />
+        <option value="$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Dog Years/Intro &amp; Steps" />
+        <option value="$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Dog Years/Dog Years.js" />
       </list>
     </option>
   </component>
@@ -111,11 +118,23 @@
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction to Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
               <item name="Javascript Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction to Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
+              <item name="Javascript Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Dog Years" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction to Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Variables" type="462c0819:PsiDirectoryNode" />
               <item name="Javascript Practice" type="462c0819:PsiDirectoryNode" />
               <item name="Variables" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -136,11 +155,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Introduction to Javascript/Variables" />
+      <recent name="$PROJECT_DIR$/Javascript Practice" />
       <recent name="$PROJECT_DIR$/Intro to CSS/style-sheet/Vacation Spots/recources/css" />
       <recent name="$PROJECT_DIR$/Intro to CSS/style-sheet/USA Soccer/recources/css" />
       <recent name="$PROJECT_DIR$/Intro to CSS/style-sheet/innovation cloud/recources/css" />
-      <recent name="$PROJECT_DIR$/Intro to CSS/style-sheet/Olivia Woodruff/recources/css" />
-      <recent name="$PROJECT_DIR$/Intro to CSS/style-sheet/innovation cloud/recources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -167,7 +186,7 @@
       <updated>1593954246349</updated>
       <workItem from="1593954247629" duration="924000" />
       <workItem from="1593960119086" duration="467000" />
-      <workItem from="1593960598506" duration="3686000" />
+      <workItem from="1593960598506" duration="5666000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1593955117327</created>
@@ -180,7 +199,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5077000" />
+    <option name="totallyTimeSpent" value="7057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="815" extended-state="6" />
@@ -321,22 +340,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/String Interpolation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Review Variables">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/typeof operator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="26" column="118" selection-start-line="26" selection-start-column="118" selection-end-line="26" selection-end-column="118" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Review Variables.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -345,10 +350,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript Practice/Variables/Review Variables">
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Variables/Review Variables">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="26" column="123" selection-start-line="26" selection-start-column="123" selection-end-line="26" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/typeof operator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" column="118" selection-start-line="26" selection-start-column="118" selection-end-line="26" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/String Interpolation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Kelvin Weather/intro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Kelvin Weather/Kelvin Weather.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" selection-start-column="61" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Dog Years/Intro &amp; Steps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="100" selection-start-line="43" selection-start-column="100" selection-end-line="43" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Javascript Practice/Dog Years/Dog Years.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="128" selection-start-line="15" selection-start-column="128" selection-end-line="15" selection-end-column="128" />
         </state>
       </provider>
     </entry>
