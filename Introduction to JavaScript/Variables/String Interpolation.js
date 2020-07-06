@@ -7,7 +7,7 @@ console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
 /*
 VARIABLES
 String Interpolation
-In the ES6 version of JavaScript, we can insert, or interpolate, variables into strings using template literals. Check out the following example where a template literal is used to log strings together:
+In the ES6 version of scripts, we can insert, or interpolate, variables into strings using template literals. Check out the following example where a template literal is used to log strings together:
 
 const myPet = 'armadillo';
 console.log(`I own a pet ${myPet}.`);

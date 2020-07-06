@@ -23,7 +23,7 @@ if (username) {
 } else {
   defaultName = 'Stranger';
 }
-If you combine your knowledge of logical operators you can use a short-hand for the code above. In a boolean condition, JavaScript assigns the truthy value to a variable if you use the || operator in your assignment:
+If you combine your knowledge of logical operators you can use a short-hand for the code above. In a boolean condition, scripts assigns the truthy value to a variable if you use the || operator in your assignment:
 
 let defaultName = username || 'Stranger';
 Because || or statements check the left-hand condition first, the variable defaultName will be assigned the actual value of username if is truthy, and it will be assigned the value of 'Stranger' if username is falsy. This concept is also referred to as short-circuit evaluation.

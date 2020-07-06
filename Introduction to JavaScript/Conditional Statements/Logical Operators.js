@@ -9,7 +9,7 @@ if (mood === 'sleepy' && tirednessLevel > 8){
 
 /*
 Logical Operators
-Working with conditionals means that we will be using booleans, true or false values. In JavaScript, there are operators that work with boolean values known as logical operators. We can use logical operators to add more sophisticated logic to our conditionals. There are three logical operators:
+Working with conditionals means that we will be using booleans, true or false values. In scripts, there are operators that work with boolean values known as logical operators. We can use logical operators to add more sophisticated logic to our conditionals. There are three logical operators:
 
 the and operator (&&)
 the or operator (||)
