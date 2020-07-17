@@ -51,8 +51,8 @@ if (actualSleepHours === idealSleepHours) {
     console.log("You got the ideal amount of sleep");
 } else {
     if (actualSleepHours > idealSleepHours) {
-        return console.log("You got too much sleep");
+        console.log("You got too much sleep");
     }
-    return console.log("You didn't get enough sleep");
+    console.log("You didn't get enough sleep");
 }
 
