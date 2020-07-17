@@ -1,0 +1,41 @@
+/* General */
+body {
+    font-family: "Helvetica";
+}
+
+/* Header Section */
+#header {
+    background-image: url("../images/pattern.jpeg");
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+/* Main Section */
+#brushes {
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#frames {
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#paint {
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.caption {
+    font-size: 24px;
+    font-weight: bold;
+}
+.aside{
+    font-weight: bold;
+    color: blue;
+}
