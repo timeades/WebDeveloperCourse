@@ -15,20 +15,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/resources/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4462">
+              <caret line="194" column="1" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-660">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator/Sleep Debt Calculator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
               <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/resources/scripts/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+=======
         <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Rock Paper Scissors.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
               <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="42" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
             </state>
           </provider>
         </entry>
@@ -38,6 +62,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -83,6 +109,13 @@
         <option value="$PROJECT_DIR$/JavaScript Projects/Magic Eight Ball/Instructions" />
         <option value="$PROJECT_DIR$/JavaScript Projects/Race Day/Race Day.js" />
         <option value="$PROJECT_DIR$/JavaScript Projects/Race Day/instructions" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Course Projects/Number Guesser/recources/css/style.css" />
+        <option value="$PROJECT_DIR$/Course Projects/Number Guesser/recources/JavaScript/script.js" />
+        <option value="$PROJECT_DIR$/Course Projects/Number Guesser/recources/JavaScript/game.js" />
+        <option value="$PROJECT_DIR$/Course Projects/Number Guesser/Instructions" />
+        <option value="$PROJECT_DIR$/Course Projects/Number Guesser/index.html" />
+=======
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Functions/Intro" />
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Functions/Function Declarations.js" />
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Functions/Calling a Function.js" />
@@ -99,12 +132,17 @@
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Rock Paper Scissors.js" />
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator.js" />
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator/Sleep Debt Calculator.js" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1440" />
+<<<<<<< HEAD
+    <option name="y" value="25" />
+=======
     <option name="y" value="47" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
     <option name="width" value="1920" />
     <option name="height" value="1055" />
   </component>
@@ -123,6 +161,9 @@
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="Course Projects" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="Introduction to JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -142,6 +183,7 @@
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScript Projects" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
             </path>
           </expand>
           <select />
@@ -151,8 +193,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -219,6 +263,9 @@
       <workItem from="1593954247629" duration="924000" />
       <workItem from="1593960119086" duration="467000" />
       <workItem from="1593960598506" duration="16012000" />
+<<<<<<< HEAD
+      <workItem from="1594022479604" duration="3694000" />
+=======
       <workItem from="1594022479604" duration="569000" />
       <workItem from="1594154295507" duration="1123000" />
       <workItem from="1594195690215" duration="2218000" />
@@ -227,6 +274,7 @@
       <workItem from="1594281859008" duration="1139000" />
       <workItem from="1594368317612" duration="1520000" />
       <workItem from="1594730062507" duration="4429000" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1593955117327</created>
@@ -239,19 +287,32 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="21097000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="25" width="1920" height="1055" extended-state="6" />
+=======
     <option name="totallyTimeSpent" value="36484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1439" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19905214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952926" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+=======
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32624868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -331,6 +392,35 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Course Projects/Dasmotos/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro to CSS/style-sheet/USA Soccer/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Into to HTML/forms/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro to CSS/style-sheet/Healthy Recipes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro to CSS/style-sheet/innovation cloud/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro to CSS/style-sheet/Olivia Woodruff/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+=======
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
     <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Variables/Mathematical Assignment Operators.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1127">
@@ -359,6 +449,8 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
     <entry file="file://$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-591">
@@ -366,6 +458,7 @@
         </state>
       </provider>
     </entry>
+>>>>>>> 92a17852e979305dcc7341071357e35b47745c5b
     <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Review Variables" />
     <entry file="file://$PROJECT_DIR$/Introduction to Javascript/Variables/Review Variables.js" />
     <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Variables/JavaScript Practice/Variables/Review Variables">
@@ -490,6 +583,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Variables/create a variable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="65" column="208" selection-start-line="65" selection-start-column="208" selection-end-line="65" selection-end-column="208" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript Projects/Race Day/instructions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript Projects/Race Day/Race Day.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -497,17 +604,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Variables/create a variable.js">
+    <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1495">
-          <caret line="65" column="208" selection-start-line="65" selection-start-column="208" selection-end-line="65" selection-end-column="208" />
+        <state relative-caret-position="4462">
+          <caret line="194" column="1" selection-start-line="194" selection-start-column="1" selection-end-line="194" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript Projects/Race Day/instructions">
+    <entry file="file://$PROJECT_DIR$/Course Projects/Cheat Sheet/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/resources/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="46">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/resources/scripts/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2277">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/Instructions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course Projects/Dasmotos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course Projects/Number Guesser/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
