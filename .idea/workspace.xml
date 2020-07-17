@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="127bc491-3290-4674-a7d1-52a3e5998fbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Intro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Cheat Sheet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Cheat Sheet/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Cheat Sheet/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Cheat Sheet/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Dasmotos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Dasmotos/recources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/recources/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Dasmotos/recources/images/finnish.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/recources/images/finnish.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Dasmotos/recources/images/frames.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/recources/images/frames.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Dasmotos/recources/images/hacksaw.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/recources/images/hacksaw.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Dasmotos/recources/images/pattern.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/recources/images/pattern.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Projects/Dasmotos/recources/spec/dasmotos-arts_redline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Into to HTML/Course Projects/Dasmotos/recources/spec/dasmotos-arts_redline.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,47 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Functions/Arrow Functions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="63" selection-start-column="63" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Intro">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="152" selection-start-line="15" selection-start-column="152" selection-end-line="15" selection-end-column="152" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator/Sleep Debt Calculator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Rock Paper Scissors.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/The switch keyword.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Functions/Function Declarations.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="230">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -85,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Intro to CSS/style-sheet/innovation cloud/index.html" />
         <option value="$PROJECT_DIR$/Course Projects/Dasmotos/index.html" />
         <option value="$PROJECT_DIR$/Introduction to Javascript/Variables/variables" />
         <option value="$PROJECT_DIR$/Introduction to Javascript/Variables/create a variable.js" />
@@ -135,14 +97,16 @@
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Intro" />
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/The switch keyword.js" />
         <option value="$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Rock Paper Scissors.js" />
+        <option value="$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator.js" />
+        <option value="$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator/Sleep Debt Calculator.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1440" />
-    <option name="y" value="25" />
-    <option name="width" value="1515" />
-    <option name="height" value="852" />
+    <option name="y" value="47" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -159,12 +123,20 @@
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Intro to CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction to JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
               <item name="Introduction to JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDeveloperCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction to JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Rock Paper Scissors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebDeveloperCourse" type="b2602c69:ProjectViewProjectNode" />
@@ -185,15 +157,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator" />
       <recent name="$PROJECT_DIR$/Into to HTML" />
       <recent name="$PROJECT_DIR$/Introduction to Javascript/Variables" />
       <recent name="$PROJECT_DIR$/Javascript Practice" />
       <recent name="$PROJECT_DIR$/Intro to CSS/style-sheet/Vacation Spots/recources/css" />
-      <recent name="$PROJECT_DIR$/Intro to CSS/style-sheet/USA Soccer/recources/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,17 +180,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Rock Paper Scissors.js">
+  <component name="RunManager" selected="Node.js.Sleep Debt Calculator.js">
     <configuration name="Arrow Functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Introduction to JavaScript/Functions/Arrow Functions.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Function Expressions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Introduction to JavaScript/Functions/Function Expressions.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Return.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Introduction to JavaScript/Functions/Return.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Rock Paper Scissors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Rock Paper Scissors.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Rock Paper Scissors.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Rock Paper Scissors.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Sleep Debt Calculator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator/Sleep Debt Calculator.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="The switch keyword.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/The switch keyword.js" working-dir="$PROJECT_DIR$">
@@ -226,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Sleep Debt Calculator.js" />
         <item itemvalue="Node.js.Rock Paper Scissors.js" />
         <item itemvalue="Node.js.The switch keyword.js" />
         <item itemvalue="Node.js.Arrow Functions.js" />
         <item itemvalue="Node.js.Function Expressions.js" />
-        <item itemvalue="Node.js.Return.js" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +225,8 @@
       <workItem from="1594208675931" duration="40000" />
       <workItem from="1594238062367" duration="1862000" />
       <workItem from="1594281859008" duration="1139000" />
+      <workItem from="1594368317612" duration="1520000" />
+      <workItem from="1594730062507" duration="4429000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1593955117327</created>
@@ -265,24 +239,25 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30535000" />
+    <option name="totallyTimeSpent" value="36484000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="1439" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19905214" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19905214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32624868" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32624868" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952926" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24536377" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24442083" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -356,9 +331,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Intro to CSS/style-sheet/Olivia Woodruff/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Variables/Mathematical Assignment Operators.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1127">
@@ -612,20 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/Else If Statements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/If else statement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="107" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/Logical Operators.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -654,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/The switch keyword.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Functions/Function Declarations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -668,10 +619,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/Else If Statements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/The switch keyword.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Conditional Statements/If else statement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="107" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Projects/Rock Paper Scissors/Rock Paper Scissors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        <state relative-caret-position="230">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction to JavaScript/Projects/Sleep Debt Calculator/Sleep Debt Calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
         </state>
       </provider>
     </entry>
